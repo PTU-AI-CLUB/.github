@@ -22,9 +22,9 @@ Our mission is simple yet profound: to foster a community of AI enthusiasts, lea
 
 - **Dr. K. Sathiyamurthy** (Convenor)
 - **Yokeswary Anebarassane** (Chief Executive)
+- **Sathya Krishnan TS** (President)
 - **Bibushan Sai Chennupati** (Secretary)
-- **Sathya Krishnan TS** (Joint Secretary)
-- **Shakthi S** (Executive Secretary)
+- **Shakthi S** (Joint Secretary)
 
 ## Getting Started
 
@@ -77,9 +77,9 @@ We are always open to ideas and suggestions on projects related to AI
 ## Contact Information
 If you have any questions or need assistance, please don't hesitate to reach out to our club leaders:
 
+- [**Sathya Krishnan TS** (President)](https://www.linkedin.com/in/sathya-krishnan-suresh-914763217/)
 - [**Bibushan Sai Chennupati** (Secretary)](https://www.linkedin.com/in/bibushansai/)
-- [**Sathya Krishnan TS** (Joint Secretary)](https://www.linkedin.com/in/sathya-krishnan-suresh-914763217/)
-- [**Shakthi S** (Executive Secretary)](https://www.linkedin.com/in/shakthi-s-a0b44a211/)
+- [**Shakthi S** (Joint Secretary)](https://www.linkedin.com/in/shakthi-s-a0b44a211/)
 - [**Mail**](mailto:ai-club@ptuniv.edu.in)
 
 Follow us on [Linkedin](https://www.linkedin.com/company/ptu-ai-club/)
